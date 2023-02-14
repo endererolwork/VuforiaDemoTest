@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="5.0" bbox="-3.5540 -1.5435 -6.4928 5.1111 1.5813 2.7016" targetId="7adb97854a32472aa1f4e6856d0eeaeb" name="officewithsea" pathAuthoring="7adb97854a32472aa1f4e6856d0eeaeb_authoring.glb" pathOcclusion="7adb97854a32472aa1f4e6856d0eeaeb_occlusion.3dt" pathNavMesh="7adb97854a32472aa1f4e6856d0eeaeb_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
